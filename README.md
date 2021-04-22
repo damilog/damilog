@@ -1,4 +1,5 @@
 ### Hi I'm Daisy 👋
+[My Blog](https://velog.io/@dami)
 
 <!--
 **damilog/damilog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
