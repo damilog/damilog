@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Dami✨Log&section=header&fontSize=60&color=autoe&height=300)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Dami✨Log&section=header&fontSize=60&color=auto&height=300)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdamilog%2F&count_bg=%23B42CFD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 📌 Contacts
