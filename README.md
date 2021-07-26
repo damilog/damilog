@@ -11,7 +11,7 @@
 
   
 ### 😎 Introduce
-Hi, I'm Dami(Daisy in CodeSquad), a grwoing Front-end web developer🌳 
+Hi, I'm Dami(Daisy in CodeSquad), a growing Front-end web developer🌳 
 - I'm studying Front-end web development, and I'm currently looking for a job as a new Front-end developer.👩‍💻
 - I also have ad tech and marketing knowledge because I worked for an advertising agency for 2 years.
                                                               (Ad tracking, GA, GTM etc.)
