@@ -6,7 +6,7 @@
  <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/>
 </a>
 <a href="mailto:dami.k.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dami.k.dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 
   
